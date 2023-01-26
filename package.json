@@ -1,0 +1,24 @@
+{
+  "name": "telegram-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "node-telegram-bot-api": "^0.60.0",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "postgres": "^3.3.2",
+    "sequelize": "^6.25.8",
+    "sequelize-cli": "^6.5.2"
+  }
+}
